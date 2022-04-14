@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = 'RemoteImageView'
-  s.version                   = '2.0.0'
+  s.version                   = '2.0.1'
   s.summary                   = 'romote imageview desc'
   s.homepage                  = 'https://gitee.com/xiyg/remote-image-view_swift-spm.git'
   s.source                    = { :git => s.homepage + '.git', :tag => s.version }
